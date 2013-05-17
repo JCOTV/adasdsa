@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:52
+-keep class com.cfemex.lv.mobile.gasolinera.Gasolineras { <init>(...); }
+

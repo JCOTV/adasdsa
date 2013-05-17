@@ -1,0 +1,23 @@
+C:\ti\RippleSites\Android\templates\final\gen\com\cfemex\lv\mobile\gasolinera\R.java \
+ : C:\ti\RippleSites\Android\templates\final\res\drawable\icon.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-hdpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-hdpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-ldpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-ldpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-mdpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-mdpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-xhdpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\res\drawable-xhdpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\res\layout\main.xml \
+C:\ti\RippleSites\Android\templates\final\res\values\strings.xml \
+C:\ti\RippleSites\Android\templates\final\res\xml\config.xml \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable\icon.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-hdpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-hdpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-ldpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-ldpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-mdpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-mdpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-xhdpi\icon.png \
+C:\ti\RippleSites\Android\templates\final\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\ti\RippleSites\Android\templates\final\bin\AndroidManifest.xml \
